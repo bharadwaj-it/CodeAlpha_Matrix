@@ -17,7 +17,7 @@ gcc matrix.c -o matrix
 ```
 2. Run the program:
 ```
-matrix
+.\matrix
 ```
 ---
 
