@@ -60,6 +60,13 @@ Transpose of Matrix A:
 
 ---
 
+## Output Screenshot
+![Output](matrix.png)
+
+---
+
+---
+
 ## Concepts Used
 
 * 2D Arrays
