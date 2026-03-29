@@ -19,15 +19,14 @@ gcc matrix.c -o matrix
 ```
 .\matrix
 ```
----
-## File Structure
 
+## File Structure
+```
 Matrix/
-  matrix.c
-  matrix.png
-  README.md
-  
----
+|-matrix.c
+|-matrix.png
+|-README.md
+```
 
 ## Example Input
 ```
